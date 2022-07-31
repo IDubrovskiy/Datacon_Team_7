@@ -57,8 +57,4 @@
 
 Для запуска проекта необходимо выполнить следующие команды:
 
-python -m pip install pipenv
-
-python -m pipenv shell
-
 pip install -r requirements.txt
