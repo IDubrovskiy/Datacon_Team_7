@@ -3,4 +3,4 @@
 
 python -m pip install pipenv
 
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
